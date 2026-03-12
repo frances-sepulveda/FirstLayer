@@ -1,4 +1,4 @@
-# FirstLayer
+# FirstLayer LLC
 
 **Learn today. Lead tomorrow.**
 
